@@ -1,2 +1,4 @@
-                                                            # Project
-This is my first repository.                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+#Project
+This is my first repository
+#Teacher
+Sanjana Patil
